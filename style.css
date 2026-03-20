@@ -1,0 +1,36 @@
+body {
+  margin: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid green;
+  font-weight: bold;
+}
+
+#del-btn {
+  background-color: white;
+  color: green;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color: green;
+}
